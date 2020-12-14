@@ -1,0 +1,61 @@
+<resources>
+    <!--    Title-->
+    <string name="app_name">PizzaGood</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Account</string>
+
+
+    <string name="title_activity_menu">Menu</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Information">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="title_activity_finish">Finish</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="your_information_has_sent_to_us_and_we_ll_contact_you_as_soon_as_we_can">Your information has sent to us and we\'ll contact you as soon as we can.</string>
+    <string name="ok">OK</string>
+    <string name="thank_you_for_your_ordering_with_us">Thank you for your ordering with us</string>
+
+
+    <string name="i_agree">I agree to the terms of use</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="card_number">Card Number</string>
+    <string name="expire_date">Expire Date</string>
+    <string name="c_d">C/D</string>
+    <string name="phone">Phone</string>
+    <string name="full_address">Full Address</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="save">Save</string>
+
+    <string name="name_already_exists">name already exists</string>
+
+
+    <string name="map_key" translatable="false">AIzaSyAVVppdKsrabW0dKW_r4bzBIVX-o4IF0_8</string>
+    <string name="title_activity_location">Location</string>
+    <string name="submit">Submit</string>
+</resources>

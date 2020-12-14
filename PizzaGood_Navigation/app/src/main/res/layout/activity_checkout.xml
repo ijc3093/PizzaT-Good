@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#804844"
+    android:orientation="vertical"
+    tools:context=".ui.home.Checkout.CheckoutActivity">
+
+
+    <EditText
+        android:id="@+id/editText_FillOutForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:textSize="30sp"
+        android:inputType="textPersonName"
+        android:text="Full out this form"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/editText_FillName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="20dp"
+        android:ems="10"
+        android:hint="@string/full_name"
+        android:inputType="textPersonName"
+
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/editText_EmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:hint="@string/email_address"
+        android:inputType="textEmailAddress"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/editText_CardNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:hint="@string/card_number"
+
+        android:inputType="number"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/editText_ExpireDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:hint="@string/expire_date"
+
+        android:inputType="date"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/editText_cd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:hint="@string/c_d"
+
+        android:inputType="number"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/editText_Phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:hint="@string/phone"
+
+        android:inputType="phone"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/editText_FullAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:hint="@string/full_address"
+
+        android:inputType="textPersonName"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/editText_ZipCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:ems="10"
+        android:hint="@string/zip_code"
+
+        android:inputType="number"
+        android:textColor="@android:color/white"/>
+
+    <CheckBox
+        android:id="@+id/checkBoxAgree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/i_agree"
+        android:textColor="@android:color/white"/>
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save" />
+
+    <Button
+        android:id="@+id/Submit"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="290dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="@string/submit" />
+</LinearLayout>

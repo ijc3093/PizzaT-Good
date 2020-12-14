@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.dashboard.Location">
+
+    <Button
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="530dp"
+        android:onClick="getLocationClick"
+        android:text="GET Location" />
+
+    <TextView
+        android:id="@+id/text_here"
+        android:freezesText="true"
+        android:textColor="#F5F4F6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="410dp"/>
+
+    <TextView
+        android:id="@+id/latitude"
+        android:freezesText="true"
+        android:textColor="#F5F4F6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="440dp"/>
+
+    <TextView
+        android:id="@+id/longitude"
+        android:freezesText="true"
+        android:textColor="#F5F4F6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="460dp"/>
+
+    <TextView
+        android:id="@+id/address"
+        android:freezesText="true"
+        android:textColor="#F5F4F6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"/>
+
+</FrameLayout>
