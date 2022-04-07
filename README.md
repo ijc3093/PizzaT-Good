@@ -1,25 +1,16 @@
 # PizzaT-Good
 
 
-# Company
-User Listing
+![Screenshot](https://github.com/ijc3093/PizzaT-Good/blob/master/images/introduction.png)
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Company/1_user_istening.png)
+![Screenshot](https://github.com/ijc3093/PizzaT-Good/blob/master/images/mvc.png)
 
-# Department
-Get all data
+![Screenshot](https://github.com/ijc3093/PizzaT-Good/blob/master/images/diagram.png)
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Departments/GET_ALL_DEPARTMENTS.png)
+![Screenshot](https://github.com/ijc3093/PizzaT-Good/blob/master/images/controller.png)
 
-Get data by Id
+![Screenshot](https://github.com/ijc3093/PizzaT-Good/blob/master/images/model.png)
 
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Departments/GET_BY_ID_DEPARTMENT.png)
+![Screenshot](https://github.com/ijc3093/PizzaT-Good/blob/master/images/controller.png)
 
-
-Post new data
-
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Departments/POST_DEPARTMENT.png)
-
-Edit data
-
-![Screenshot](https://github.com/ijc3093/Nodejs-RestFul-Postman-IST341/blob/master/screen/Departments/PUT_DEPARTMENT.png)
+![Screenshot](https://github.com/ijc3093/PizzaT-Good/blob/master/images/grid.png)
